@@ -35,7 +35,7 @@ This project implements semantic segmentation using the **DeepLabV3** architectu
 ---
 
 ## **Setup Instructions**
-
+Note: GPU is required for the project to run. You can use Google Colab.
 ### **1. Clone the Repository**
 ```bash
 git clone https://github.com/YashRaythatha/Semantic-Segmentation-using-DeepLabV3.git
