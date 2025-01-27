@@ -93,6 +93,15 @@ Predictions include:
 - Predicted mask
 
 ---
+## **Sample Output**
+
+Below is an example of the semantic segmentation result:
+
+![Output](output.png)
+
+- **Left:** Input Image
+- **Center:** Ground Truth Mask
+- **Right:** Predicted Mask
 
 ## **Future Enhancements**
 
