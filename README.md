@@ -40,7 +40,7 @@ This project implements semantic segmentation using the **DeepLabV3** architectu
 ```bash
 git clone https://github.com/YashRaythatha/Semantic-Segmentation-using-DeepLabV3.git
 cd Semantic-Segmentation-using-DeepLabV3
-
+```
 ### **2. Install Dependencies**
 Install the required Python packages:
 ```bash
