@@ -108,6 +108,3 @@ Predictions include:
 Special thanks to tools like Roboflow, PyTorch, and Gradio for enabling the development of this project.
 
 ---
-```
-
-Feel free to replace placeholders like `your-username` and `your-repo` with your actual GitHub repository details. Let me know if you need further adjustments!
